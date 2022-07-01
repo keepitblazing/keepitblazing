@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text={JIMIN PARK}%20JisuPark%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JIMIN PARK%20%20&height=200&fontSize=100)
 TOMORROW IS THE DEVELOPER!
 
 Languages and Tools:
