@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JIMINPARK%20%20&height=200&fontSize=100)
 
-### TOMORROW IS THE DEVELOPER!
+### TOMORROW WILL BE THE DEVELOPER!
 
 Languages and Tools:
 
