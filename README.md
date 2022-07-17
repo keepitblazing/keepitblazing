@@ -1,5 +1,9 @@
+<div align= center>
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JIMINPARK%20%20&height=200&fontSize=100)
 
+
+ 
 ### TOMORROW WILL BE THE DEVELOPER!
 
 Languages and Tools:
@@ -16,3 +20,5 @@ Will Be Learning
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keepinblazing&show_icons=true&theme=radical)
+
+ </div>
