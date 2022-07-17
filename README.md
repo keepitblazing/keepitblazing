@@ -12,6 +12,6 @@ Now Learning:
 
 Will Be Learning
 
- <img src="https://img.shields.io/badge/Next.js-000000style=flat-square&logo=Next.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 
 
