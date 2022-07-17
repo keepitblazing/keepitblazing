@@ -17,8 +17,10 @@ Now Learning:
 Will Be Learning
 
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+ 
 <br/>
 <br/>
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keepinblazing&show_icons=true&theme=radical)
 
  </div>
