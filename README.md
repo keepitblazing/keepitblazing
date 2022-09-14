@@ -8,17 +8,20 @@
 
 Languages and Tools
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+![java](https://user-images.githubusercontent.com/103014298/190182574-a4c43bc1-4fdd-4380-8221-79c3d1f30f1a.png) ![html5](https://user-images.githubusercontent.com/103014298/190182603-e7d1b5b8-aee1-482b-bf64-9109ba538ccd.png) ![css](https://user-images.githubusercontent.com/103014298/190182593-8fcf13d5-1826-490e-b3c9-5926da1c1742.png) ![tailwind](https://user-images.githubusercontent.com/103014298/190183118-f61e401b-909c-4730-bcfd-763aa7cf2a50.png) ![styled](https://user-images.githubusercontent.com/103014298/190183120-27621f4c-65ef-4997-83c8-e2fb1bcc238a.png) ![jira](https://user-images.githubusercontent.com/103014298/190182788-f498859c-3a4a-40b4-89e2-e1f5ec8bafca.png) ![notion](https://user-images.githubusercontent.com/103014298/190182799-f3f3cce5-6661-4910-91f4-250b2cdfd332.png) ![redux](https://user-images.githubusercontent.com/103014298/190182931-e356aa23-98fe-4f26-92e3-c97432cd71c9.png) ![mui](https://user-images.githubusercontent.com/103014298/190183942-56d718fc-8154-45c5-9000-28f9e7b469a0.png) ![bootstrap](https://user-images.githubusercontent.com/103014298/190184048-e2704c21-5b5b-483a-991e-9c8bc020f59d.png)
 
-<img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/> <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+![image 346](https://user-images.githubusercontent.com/103014298/190183248-a48cc466-5ac6-4e9a-8acd-edc6da92de82.png) ![firebase](https://user-images.githubusercontent.com/103014298/190183482-a0ff17e1-1ad1-44bc-b391-126f9d63e3cc.png)
 
 Now Learning
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+![image 354](https://user-images.githubusercontent.com/103014298/190180619-808a3649-3504-4322-b2a9-888798003f83.png) ![Rectangle 2629](https://user-images.githubusercontent.com/103014298/190180566-f351d737-49d4-44e7-91d8-a009072d8296.png) ![tanstack](https://user-images.githubusercontent.com/103014298/190184095-9c9b93aa-a514-46f0-bf62-d05256e5176b.png)
+
+
 
 Will Be Learning
  
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
+![next](https://user-images.githubusercontent.com/103014298/190181863-a376f9ff-e85f-42c4-948b-e53837c8e0a4.png)
+
  
 <br/>
 <br/>
