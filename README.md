@@ -12,7 +12,7 @@ Languages and Stack
  
 Tools
 
-![jira](https://user-images.githubusercontent.com/103014298/190182788-f498859c-3a4a-40b4-89e2-e1f5ec8bafca.png) ![notion](https://user-images.githubusercontent.com/103014298/190182799-f3f3cce5-6661-4910-91f4-250b2cdfd332.png) ![slack](https://user-images.githubusercontent.com/103014298/190184460-e6a164e8-5b26-450a-9712-3809948e5d89.png)
+![jira](https://user-images.githubusercontent.com/103014298/190182788-f498859c-3a4a-40b4-89e2-e1f5ec8bafca.png) ![notion](https://user-images.githubusercontent.com/103014298/190182799-f3f3cce5-6661-4910-91f4-250b2cdfd332.png) ![slack](https://user-images.githubusercontent.com/103014298/190640879-945490ad-b746-4299-8dd5-a383705b6975.png)
 
 Now Learning
 
