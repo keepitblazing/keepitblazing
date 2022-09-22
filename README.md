@@ -16,11 +16,11 @@ Tools
 
 Now Learning
 
-![image 354](https://user-images.githubusercontent.com/103014298/190180619-808a3649-3504-4322-b2a9-888798003f83.png) ![Rectangle 2629](https://user-images.githubusercontent.com/103014298/190180566-f351d737-49d4-44e7-91d8-a009072d8296.png) ![tanstack](https://user-images.githubusercontent.com/103014298/190184095-9c9b93aa-a514-46f0-bf62-d05256e5176b.png)
+![image 354](https://user-images.githubusercontent.com/103014298/190180619-808a3649-3504-4322-b2a9-888798003f83.png) ![Rectangle 2629](https://user-images.githubusercontent.com/103014298/190180566-f351d737-49d4-44e7-91d8-a009072d8296.png) ![tanstack](https://user-images.githubusercontent.com/103014298/190184095-9c9b93aa-a514-46f0-bf62-d05256e5176b.png) ![next](https://user-images.githubusercontent.com/103014298/190181863-a376f9ff-e85f-42c4-948b-e53837c8e0a4.png) 
 
 Will Be Learning
  
-![next](https://user-images.githubusercontent.com/103014298/190181863-a376f9ff-e85f-42c4-948b-e53837c8e0a4.png) ![RTL](https://user-images.githubusercontent.com/103014298/190385029-fee72b2d-abce-4be2-83bc-f11a9f7248fb.png) ![jest](https://user-images.githubusercontent.com/103014298/190385058-5b1a0e1d-abc7-44dc-8f30-71f3d7fab4ec.png) ![cypress](https://user-images.githubusercontent.com/103014298/190641456-c5ccf08a-bb61-46eb-8ef3-f946d43ac14b.png)
+![RTL](https://user-images.githubusercontent.com/103014298/190385029-fee72b2d-abce-4be2-83bc-f11a9f7248fb.png) ![jest](https://user-images.githubusercontent.com/103014298/190385058-5b1a0e1d-abc7-44dc-8f30-71f3d7fab4ec.png) ![cypress](https://user-images.githubusercontent.com/103014298/190641456-c5ccf08a-bb61-46eb-8ef3-f946d43ac14b.png)
 
 
  
