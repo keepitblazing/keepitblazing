@@ -16,10 +16,7 @@ Tools
 
 Devops
 
-![cloudfront](https://user-images.githubusercontent.com/103014298/192001071-d189e888-e876-46ff-a064-79507cfe31fb.png) ![image 346](https://user-images.githubusercontent.com/103014298/192001856-903e02a6-7355-4f08-8dbc-cf707b5bcc25.png)
-
-
-
+![cloudfront](https://user-images.githubusercontent.com/103014298/192001071-d189e888-e876-46ff-a064-79507cfe31fb.png) ![s3](https://user-images.githubusercontent.com/103014298/192002040-863552f3-b84d-4e08-9a54-f952cf71ee4b.png)
 
 Now Learning
 
