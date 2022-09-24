@@ -25,7 +25,7 @@ Devops
 
 Now Learning
 
-![image 354](https://user-images.githubusercontent.com/103014298/190180619-808a3649-3504-4322-b2a9-888798003f83.png) ![Rectangle 2629](https://user-images.githubusercontent.com/103014298/190180566-f351d737-49d4-44e7-91d8-a009072d8296.png) ![tanstack](https://user-images.githubusercontent.com/103014298/190184095-9c9b93aa-a514-46f0-bf62-d05256e5176b.png) ![next](https://user-images.githubusercontent.com/103014298/190181863-a376f9ff-e85f-42c4-948b-e53837c8e0a4.png) 
+![image 354](https://user-images.githubusercontent.com/103014298/190180619-808a3649-3504-4322-b2a9-888798003f83.png) ![Rectangle 2629](https://user-images.githubusercontent.com/103014298/190180566-f351d737-49d4-44e7-91d8-a009072d8296.png) ![tanstack](https://user-images.githubusercontent.com/103014298/190184095-9c9b93aa-a514-46f0-bf62-d05256e5176b.png) ![nextjs](https://user-images.githubusercontent.com/103014298/192095466-83573093-bd5a-41d9-8aa5-3d9e16ce7895.png)
 
 Will Be Learning
  
