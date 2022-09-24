@@ -13,7 +13,8 @@ Languages and Stack
 
 Tools
 
-![jira](https://user-images.githubusercontent.com/103014298/190182788-f498859c-3a4a-40b4-89e2-e1f5ec8bafca.png) ![notion](https://user-images.githubusercontent.com/103014298/190182799-f3f3cce5-6661-4910-91f4-250b2cdfd332.png) ![slack](https://user-images.githubusercontent.com/103014298/190640879-945490ad-b746-4299-8dd5-a383705b6975.png) ![githubaction](https://user-images.githubusercontent.com/103014298/191776583-6313be3b-c21f-4fe8-a38f-437f069cbebd.png)
+![jira](https://user-images.githubusercontent.com/103014298/190182788-f498859c-3a4a-40b4-89e2-e1f5ec8bafca.png) ![notion](https://user-images.githubusercontent.com/103014298/190182799-f3f3cce5-6661-4910-91f4-250b2cdfd332.png) ![slack](https://user-images.githubusercontent.com/103014298/190640879-945490ad-b746-4299-8dd5-a383705b6975.png) ![githubaction](https://user-images.githubusercontent.com/103014298/192095377-55e2ab21-c11c-41f3-bc84-29384da06b48.png)
+
 
 Devops
 
@@ -28,7 +29,8 @@ Now Learning
 
 Will Be Learning
  
-![RTL](https://user-images.githubusercontent.com/103014298/190385029-fee72b2d-abce-4be2-83bc-f11a9f7248fb.png) ![jest](https://user-images.githubusercontent.com/103014298/190385058-5b1a0e1d-abc7-44dc-8f30-71f3d7fab4ec.png) ![cypress](https://user-images.githubusercontent.com/103014298/190641456-c5ccf08a-bb61-46eb-8ef3-f946d43ac14b.png)
+![RTL](https://user-images.githubusercontent.com/103014298/190385029-fee72b2d-abce-4be2-83bc-f11a9f7248fb.png) ![jest](https://user-images.githubusercontent.com/103014298/190385058-5b1a0e1d-abc7-44dc-8f30-71f3d7fab4ec.png) ![cypress](https://user-images.githubusercontent.com/103014298/190641456-c5ccf08a-bb61-46eb-8ef3-f946d43ac14b.png) ![mobx](https://user-images.githubusercontent.com/103014298/192095383-9d77d0a4-d9b9-4d64-9379-783ec579c5da.png) ![recoil](https://user-images.githubusercontent.com/103014298/192095388-bbcf6340-1c2f-447f-b2fa-92ce0fa81f48.png)
+
 
 
  
