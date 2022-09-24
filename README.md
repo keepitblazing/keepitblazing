@@ -1,8 +1,6 @@
 <div align= center>
 
-
-![Group 1](https://user-images.githubusercontent.com/103014298/192095086-8179295b-6c9a-42ee-be0b-7602cacdfb47.png)
-
+![Group 845](https://user-images.githubusercontent.com/103014298/192102407-e597f0ff-2dea-4601-898c-b82e2d920e3f.png)
 
  
 ### TOMORROW WILL BE THE DEVELOPER!
