@@ -1,8 +1,7 @@
 <div align= center>
 
 
-![Group 841](https://user-images.githubusercontent.com/103014298/192095031-a817c6f1-8f77-45d7-948f-823a8c13de67.png)
-
+![Group 1](https://user-images.githubusercontent.com/103014298/192095086-8179295b-6c9a-42ee-be0b-7602cacdfb47.png)
 
 
  
