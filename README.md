@@ -4,7 +4,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeepinblazing%2Fhit-counter&count_bg=%232E312C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com) 
 
-<div align={left}>  
+<div style="text-align : left">  
 Languages and Stack
 
 ![java](https://user-images.githubusercontent.com/103014298/190182574-a4c43bc1-4fdd-4380-8221-79c3d1f30f1a.png) ![html5](https://user-images.githubusercontent.com/103014298/190182603-e7d1b5b8-aee1-482b-bf64-9109ba538ccd.png) ![image 354](https://user-images.githubusercontent.com/103014298/190180619-808a3649-3504-4322-b2a9-888798003f83.png) ![Rectangle 2629](https://user-images.githubusercontent.com/103014298/190180566-f351d737-49d4-44e7-91d8-a009072d8296.png) ![nextjs](https://user-images.githubusercontent.com/103014298/192095466-83573093-bd5a-41d9-8aa5-3d9e16ce7895.png) 
