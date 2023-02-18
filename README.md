@@ -1,4 +1,4 @@
-<div align= center>
+<div>
 
 ![Group 870](https://user-images.githubusercontent.com/103014298/200100258-c57e9dab-da73-47e7-938f-4b43a3a622e3.png)
   
