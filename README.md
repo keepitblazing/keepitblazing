@@ -4,6 +4,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeepinblazing%2Fhit-counter&count_bg=%232E312C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com) 
 
+<div align={left}>  
 Languages and Stack
 
 ![java](https://user-images.githubusercontent.com/103014298/190182574-a4c43bc1-4fdd-4380-8221-79c3d1f30f1a.png) ![html5](https://user-images.githubusercontent.com/103014298/190182603-e7d1b5b8-aee1-482b-bf64-9109ba538ccd.png) ![image 354](https://user-images.githubusercontent.com/103014298/190180619-808a3649-3504-4322-b2a9-888798003f83.png) ![Rectangle 2629](https://user-images.githubusercontent.com/103014298/190180566-f351d737-49d4-44e7-91d8-a009072d8296.png) ![nextjs](https://user-images.githubusercontent.com/103014298/192095466-83573093-bd5a-41d9-8aa5-3d9e16ce7895.png) 
@@ -27,9 +28,6 @@ Devops
 
 ![cloudfront](https://user-images.githubusercontent.com/103014298/192001071-d189e888-e876-46ff-a064-79507cfe31fb.png) ![route53](https://user-images.githubusercontent.com/103014298/192002329-be6c3895-56b5-4447-8bcc-427a962f39b7.png) ![](https://user-images.githubusercontent.com/103014298/192002040-863552f3-b84d-4e08-9a54-f952cf71ee4b.png) ![firebase](https://user-images.githubusercontent.com/103014298/190183482-a0ff17e1-1ad1-44bc-b391-126f9d63e3cc.png)
 
-
-
-
 Now Learning
 
 ![RTL](https://user-images.githubusercontent.com/103014298/190385029-fee72b2d-abce-4be2-83bc-f11a9f7248fb.png) ![jest](https://user-images.githubusercontent.com/103014298/190385058-5b1a0e1d-abc7-44dc-8f30-71f3d7fab4ec.png) ![cypress](https://user-images.githubusercontent.com/103014298/190641456-c5ccf08a-bb61-46eb-8ef3-f946d43ac14b.png) 
@@ -38,7 +36,7 @@ Now Learning
 Will Be Learning
  
 ![mobx](https://user-images.githubusercontent.com/103014298/192095383-9d77d0a4-d9b9-4d64-9379-783ec579c5da.png) 
-
+  </div>
 
 
  
