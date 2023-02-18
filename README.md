@@ -6,11 +6,11 @@
 
 Languages and Stack
 
-![java](https://user-images.githubusercontent.com/103014298/190182574-a4c43bc1-4fdd-4380-8221-79c3d1f30f1a.png) ![html5](https://user-images.githubusercontent.com/103014298/190182603-e7d1b5b8-aee1-482b-bf64-9109ba538ccd.png) ![css](https://user-images.githubusercontent.com/103014298/190182593-8fcf13d5-1826-490e-b3c9-5926da1c1742.png) [image 354](https://user-images.githubusercontent.com/103014298/190180619-808a3649-3504-4322-b2a9-888798003f83.png) ![Rectangle 2629](https://user-images.githubusercontent.com/103014298/190180566-f351d737-49d4-44e7-91d8-a009072d8296.png) ![nextjs](https://user-images.githubusercontent.com/103014298/192095466-83573093-bd5a-41d9-8aa5-3d9e16ce7895.png) 
+![java](https://user-images.githubusercontent.com/103014298/190182574-a4c43bc1-4fdd-4380-8221-79c3d1f30f1a.png) ![html5](https://user-images.githubusercontent.com/103014298/190182603-e7d1b5b8-aee1-482b-bf64-9109ba538ccd.png) ![image 354](https://user-images.githubusercontent.com/103014298/190180619-808a3649-3504-4322-b2a9-888798003f83.png) ![Rectangle 2629](https://user-images.githubusercontent.com/103014298/190180566-f351d737-49d4-44e7-91d8-a009072d8296.png) ![nextjs](https://user-images.githubusercontent.com/103014298/192095466-83573093-bd5a-41d9-8aa5-3d9e16ce7895.png) 
   
 CSS
   
-![tailwind](https://user-images.githubusercontent.com/103014298/190183118-f61e401b-909c-4730-bcfd-763aa7cf2a50.png) ![styled](https://user-images.githubusercontent.com/103014298/190183120-27621f4c-65ef-4997-83c8-e2fb1bcc238a.png)
+![css](https://user-images.githubusercontent.com/103014298/190182593-8fcf13d5-1826-490e-b3c9-5926da1c1742.png) ![tailwind](https://user-images.githubusercontent.com/103014298/190183118-f61e401b-909c-4730-bcfd-763aa7cf2a50.png) ![styled](https://user-images.githubusercontent.com/103014298/190183120-27621f4c-65ef-4997-83c8-e2fb1bcc238a.png)
   
   
 
