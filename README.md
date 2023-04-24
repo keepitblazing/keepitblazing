@@ -26,6 +26,10 @@ Devops
 ![cloudfront](https://user-images.githubusercontent.com/103014298/192001071-d189e888-e876-46ff-a064-79507cfe31fb.png) ![route53](https://user-images.githubusercontent.com/103014298/192002329-be6c3895-56b5-4447-8bcc-427a962f39b7.png) ![](https://user-images.githubusercontent.com/103014298/192002040-863552f3-b84d-4e08-9a54-f952cf71ee4b.png) ![firebase](https://user-images.githubusercontent.com/103014298/190183482-a0ff17e1-1ad1-44bc-b391-126f9d63e3cc.png)
 
 Now Learning
+  
+![reactnative](https://user-images.githubusercontent.com/103014298/234020338-2ce2464b-10be-42dc-8994-75dbd1494446.png) ![nestjs](https://user-images.githubusercontent.com/103014298/234020399-2457f430-0cbc-4e31-9372-693480f093e7.png)
+
+Will Be Learning
 
 ![RTL](https://user-images.githubusercontent.com/103014298/190385029-fee72b2d-abce-4be2-83bc-f11a9f7248fb.png) ![jest](https://user-images.githubusercontent.com/103014298/190385058-5b1a0e1d-abc7-44dc-8f30-71f3d7fab4ec.png) ![cypress](https://user-images.githubusercontent.com/103014298/190641456-c5ccf08a-bb61-46eb-8ef3-f946d43ac14b.png) 
   
