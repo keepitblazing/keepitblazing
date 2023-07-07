@@ -27,11 +27,11 @@ Devops
 
 Now Learning
   
-![reactnative](https://user-images.githubusercontent.com/103014298/234020338-2ce2464b-10be-42dc-8994-75dbd1494446.png) ![nestjs](https://user-images.githubusercontent.com/103014298/234020399-2457f430-0cbc-4e31-9372-693480f093e7.png)
+![reactnative](https://user-images.githubusercontent.com/103014298/234020338-2ce2464b-10be-42dc-8994-75dbd1494446.png) ![nestjs](https://user-images.githubusercontent.com/103014298/234020399-2457f430-0cbc-4e31-9372-693480f093e7.png) ![jest](https://user-images.githubusercontent.com/103014298/190385058-5b1a0e1d-abc7-44dc-8f30-71f3d7fab4ec.png)
 
 Will Be Learning
 
-![RTL](https://user-images.githubusercontent.com/103014298/190385029-fee72b2d-abce-4be2-83bc-f11a9f7248fb.png) ![jest](https://user-images.githubusercontent.com/103014298/190385058-5b1a0e1d-abc7-44dc-8f30-71f3d7fab4ec.png) ![cypress](https://user-images.githubusercontent.com/103014298/190641456-c5ccf08a-bb61-46eb-8ef3-f946d43ac14b.png) 
+![RTL](https://user-images.githubusercontent.com/103014298/190385029-fee72b2d-abce-4be2-83bc-f11a9f7248fb.png) ![cypress](https://user-images.githubusercontent.com/103014298/190641456-c5ccf08a-bb61-46eb-8ef3-f946d43ac14b.png) 
   
 
 
