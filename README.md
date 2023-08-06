@@ -27,16 +27,3 @@ Now Learning
 Will Be Learning
 
 ![RTL](https://user-images.githubusercontent.com/103014298/190385029-fee72b2d-abce-4be2-83bc-f11a9f7248fb.png) ![cypress](https://user-images.githubusercontent.com/103014298/190641456-c5ccf08a-bb61-46eb-8ef3-f946d43ac14b.png) 
-  
-
-
-
- 
-<br/>
-<br/>
- 
-![Jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=keepinblazing&show_icons=true&theme=radical)
-<br/>
-<br/> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </div>
